@@ -12,7 +12,7 @@
 | **Course** | AI Tools & Prompt Engineering (Instructor: Jeff Bezos / Unit 3) |
 | **Submission Date** | 18 November 2026 |
 | **Project Workspace** | `nimbus-campus-helpdesk/` |
-| **Git Repository** | `https://github.com/snehachaturvedi/nimbus-campus-helpdesk` |
+| **Git Repository** | `https://github.com/millionaireglitch/Initial-commit---AI-Tools-and-Prompt-Engineering---nimbuslabs` |
 
 ---
 
