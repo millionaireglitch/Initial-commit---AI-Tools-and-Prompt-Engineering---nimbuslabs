@@ -1,0 +1,13 @@
+{
+  "description": "Security guardrails for the Campus Helpdesk Agent",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "run_command|bash|read_file",
+        "command": "python3",
+        "args": ["hooks/security_hook.py"],
+        "timeoutMs": 5000
+      }
+    ]
+  }
+}

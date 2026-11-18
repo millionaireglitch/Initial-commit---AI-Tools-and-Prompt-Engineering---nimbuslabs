@@ -1,0 +1,39 @@
+batch,day,start_time,end_time,subject,room,faculty
+CS-A,Monday,09:00,10:00,Data Structures & Algorithms,Room 101,Dr. Rajesh Sharma
+CS-A,Monday,10:15,11:15,Database Management Systems,Room 102,Prof. Ananya Sen
+CS-A,Monday,11:30,12:30,Computer Networks,Room 101,Dr. Vikram Malhotra
+CS-A,Monday,13:30,14:30,Operating Systems,Room 105,Prof. Meenakshi Iyer
+CS-A,Monday,14:45,16:45,Operating Systems Lab,Lab 3,Prof. Meenakshi Iyer
+CS-A,Tuesday,09:00,10:00,Discrete Mathematics,Room 101,Dr. S. K. Gupta
+CS-A,Tuesday,10:15,11:15,Data Structures & Algorithms,Room 101,Dr. Rajesh Sharma
+CS-A,Tuesday,11:30,12:30,Software Engineering,Room 103,Dr. Pooja Verma
+CS-A,Tuesday,13:30,15:30,DBMS Lab,Lab 2,Prof. Ananya Sen
+CS-A,Wednesday,09:00,10:00,Operating Systems,Room 105,Prof. Meenakshi Iyer
+CS-A,Wednesday,10:15,11:15,Computer Networks,Room 101,Dr. Vikram Malhotra
+CS-A,Wednesday,11:30,12:30,Data Structures & Algorithms,Room 101,Dr. Rajesh Sharma
+CS-A,Wednesday,13:30,15:30,Networking Lab,Lab 1,Dr. Vikram Malhotra
+CS-A,Thursday,09:00,10:00,Software Engineering,Room 103,Dr. Pooja Verma
+CS-A,Thursday,10:15,11:15,Operating Systems,Room 105,Prof. Meenakshi Iyer
+CS-A,Thursday,11:30,12:30,Database Management Systems,Room 102,Prof. Ananya Sen
+CS-A,Thursday,13:30,14:30,Discrete Mathematics,Room 101,Dr. S. K. Gupta
+CS-A,Friday,09:00,10:00,Operating Systems,Room 105,Prof. Meenakshi Iyer
+CS-A,Friday,10:15,11:15,Software Engineering,Room 103,Dr. Pooja Verma
+CS-A,Friday,11:30,12:30,Computer Networks,Room 101,Dr. Vikram Malhotra
+CS-A,Friday,13:30,14:30,Library & Research Mentorship,Room 101,Dr. Rajesh Sharma
+CS-B,Monday,09:00,10:00,Database Management Systems,Room 201,Prof. Ananya Sen
+CS-B,Monday,10:15,11:15,Data Structures & Algorithms,Room 202,Dr. Rajesh Sharma
+CS-B,Monday,11:30,12:30,Discrete Mathematics,Room 201,Dr. S. K. Gupta
+CS-B,Monday,13:30,15:30,DSA Lab,Lab 3,Dr. Rajesh Sharma
+CS-B,Tuesday,09:00,10:00,Computer Networks,Room 201,Dr. Vikram Malhotra
+CS-B,Tuesday,10:15,11:15,Operating Systems,Room 205,Prof. Meenakshi Iyer
+CS-B,Tuesday,11:30,12:30,Software Engineering,Room 203,Dr. Pooja Verma
+CS-B,Wednesday,09:00,10:00,Software Engineering,Room 203,Dr. Pooja Verma
+CS-B,Wednesday,10:00,11:00,Database Management Systems,Room 201,Prof. Ananya Sen
+CS-B,Wednesday,11:15,12:15,Computer Networks,Room 201,Dr. Vikram Malhotra
+CS-B,Wednesday,13:00,14:00,Data Structures & Algorithms,Room 202,Dr. Rajesh Sharma
+CS-B,Thursday,09:00,10:00,Operating Systems,Room 205,Prof. Meenakshi Iyer
+CS-B,Thursday,10:15,11:15,Discrete Mathematics,Room 201,Dr. S. K. Gupta
+CS-B,Thursday,11:30,12:30,Data Structures & Algorithms,Room 202,Dr. Rajesh Sharma
+CS-B,Friday,09:00,10:00,Computer Networks,Room 201,Dr. Vikram Malhotra
+CS-B,Friday,10:15,11:15,Operating Systems,Room 205,Prof. Meenakshi Iyer
+CS-B,Friday,11:30,12:30,Database Management Systems,Room 201,Prof. Ananya Sen

@@ -1,0 +1,24 @@
+{
+  "name": "campus-helpdesk",
+  "displayName": "Nimbus Campus Helpdesk Plugin",
+  "version": "1.0.0",
+  "description": "Comprehensive student assistance plugin bundling timetable lookup, mock fee inquiry, hostel guidelines, and automated security guardrails.",
+  "author": "Sneha Chaturvedi (Roll No: 150096725200)",
+  "skills": [
+    "./skills/timetable-helper",
+    "./skills/timetable"
+  ],
+  "hooks": "./hooks.json",
+  "mcpServers": {
+    "campus-mcp": {
+      "command": "python3",
+      "args": ["../../mcp-server/server.py"]
+    }
+  },
+  "suggestedPrompts": [
+    "Show Monday classes for batch CS-A",
+    "/timetable batch:CS-B day:Wednesday",
+    "What is the fee status for student 150096725200?",
+    "What are the hostel gate closure timings?"
+  ]
+}

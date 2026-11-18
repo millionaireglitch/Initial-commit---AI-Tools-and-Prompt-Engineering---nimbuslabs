@@ -1,0 +1,40 @@
+{
+  "students": {
+    "150096725200": {
+      "student_name": "Sneha Chaturvedi",
+      "roll_number": "150096725200",
+      "programme": "B.Tech Computer Science & Engineering",
+      "semester": 4,
+      "total_fee": 125000,
+      "amount_paid": 125000,
+      "outstanding_dues": 0,
+      "payment_status": "PAID_IN_FULL",
+      "receipt_number": "NIMBUS-REC-2026-9821",
+      "last_payment_date": "2026-08-15"
+    },
+    "150096725128": {
+      "student_name": "Nishi Chopda",
+      "roll_number": "150096725128",
+      "programme": "B.Tech Computer Science & Engineering",
+      "semester": 4,
+      "total_fee": 125000,
+      "amount_paid": 125000,
+      "outstanding_dues": 0,
+      "payment_status": "PAID_IN_FULL",
+      "receipt_number": "NIMBUS-REC-2026-8841",
+      "last_payment_date": "2026-08-12"
+    },
+    "150096725001": {
+      "student_name": "Aarav Sharma",
+      "roll_number": "150096725001",
+      "programme": "B.Tech Computer Science & Engineering",
+      "semester": 4,
+      "total_fee": 125000,
+      "amount_paid": 75000,
+      "outstanding_dues": 50000,
+      "payment_status": "PARTIAL_PAYMENT",
+      "receipt_number": "NIMBUS-REC-2026-4412",
+      "last_payment_date": "2026-08-10"
+    }
+  }
+}
